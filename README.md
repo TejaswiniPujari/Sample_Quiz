@@ -23,4 +23,4 @@
 "https://sample-quiz.vercel.app/"
   <br>
   <br>
- <p style="text-align:center;"><i>Copyright © 2021 | Tejaswini Pujari</i></p>
+ <p style="text-align:center; "><i>Copyright © 2021 | Tejaswini Pujari</i></p>
